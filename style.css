@@ -1,0 +1,26 @@
+.container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-image: url('background.jpg');
+    background-size: cover;
+    padding: 20px;
+    margin: 20px;
+}
+
+.container .box-1 {
+    background-color: rgb(206, 235, 235);
+    padding: 20px;
+    margin: 20px;
+}
+
+.container .box-2 {
+    background-color: rgb(206, 235, 235);
+    padding: 20px;
+    margin: 20px;
+}
+
+.container .box-3 {
+    background-color: rgb(206, 235, 235);
+    padding: 20px;
+    margin: 20px;
+}
